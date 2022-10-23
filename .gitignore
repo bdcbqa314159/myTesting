@@ -1,0 +1,4 @@
+.vscode/
+cpp/build/
+cpp/tests/bin/
+cpp/tests/build/

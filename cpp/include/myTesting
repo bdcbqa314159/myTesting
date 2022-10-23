@@ -1,0 +1,17 @@
+#ifndef MYTESTING_LIBRARY_H // update here
+#define MYTESTING_LIBRARY_H
+
+#include "myTesting_bits/standard.hpp"
+#include "myTesting_bits/globalConstants.hpp"
+#include "myTesting_bits/test.hpp"
+
+#include "myTesting_bits/textFunctions.hpp"
+#include "myTesting_bits/LineChart.hpp"
+#include "myTesting_bits/Histogram.hpp"
+
+#include "myTesting_bits/mathematics.hpp"
+
+#include "myTesting_bits/RealFunction.hpp"
+#include "myTesting_bits/RealFunction2D.hpp"
+
+#endif
