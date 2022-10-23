@@ -3,6 +3,7 @@
 
 #include "myTesting_bits/standard.hpp"
 #include "myTesting_bits/globalConstants.hpp"
+#include "myTesting_bits/testing.hpp"
 #include "myTesting_bits/test.hpp"
 
 #include "myTesting_bits/textFunctions.hpp"
